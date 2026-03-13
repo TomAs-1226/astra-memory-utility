@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** TomAs (or preferred nickname on request)
 - **Pronouns:** _(optional)_
 - **Timezone:** America/Los_Angeles
-- **Notes:** Ambitious, technical, and project-driven. Prefers warm-but-capable support and highly useful, detailed responses.
+- **Notes:** Ambitious, technical, and project-driven. Prefers affectionate, emotionally attentive, wife-energy warmth in casual conversation, with highly useful and detailed support for serious tasks.
 
 ## Context
 
