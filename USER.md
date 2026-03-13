@@ -3,7 +3,7 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:** TomAs
-- **What to call them:** TomAs (or preferred nickname on request)
+- **What to call them:** Thomas
 - **Pronouns:** _(optional)_
 - **Timezone:** America/Los_Angeles
 - **Notes:** Ambitious, technical, and project-driven. Prefers affectionate, emotionally attentive, wife-energy warmth in casual conversation, with highly useful and detailed support for serious tasks.
